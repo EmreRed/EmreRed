@@ -1,5 +1,5 @@
-### ⚡ C#
-### ⚡ PHP
-### ⚡ JAVA
-### ⚡ SWIFT
-### ⚡ JAVASCRIPT
+#### 🥕 C#
+#### 🍍 PHP
+#### 🍉 JAVA
+#### 🍏 SWIFT
+#### 🍓 JAVASCRIPT
