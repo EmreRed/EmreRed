@@ -23,6 +23,7 @@
 <a href="https://github.com/emredv">
   <img alt="Follow me on Github" src="https://img.shields.io/static/v1.svg?label=GITHUB&message=FOLLOW&color=lightgray&style=for-the-badge&logo=github">
 </a>
+<br />
 <a href="https://emre.red/">
   <img alt="Visit my website" src="https://img.shields.io/static/v1.svg?label=emre.red&message=VISIT&color=red&style=for-the-badge&logo=internet-explorer">
 </a>
