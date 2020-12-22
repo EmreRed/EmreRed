@@ -5,10 +5,11 @@
   <img align="center" height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emredv&layout=compact&theme=compact" />
 </a>
 
-<h3 align="left">My Top 5</h3>
+<h3 align="left">My Favorites</h3>
 <table>
   <tbody>
    <tr>
+    <td><img src="https://img.shields.io/static/v1.svg?label=200%&message=HTML&color=white" /></td>
     <td><img src="https://img.shields.io/static/v1.svg?label=0.5%&message=PHP&color=blue" /></td>
     <td><img src="https://img.shields.io/static/v1.svg?label=0.4%&message=Javascript&color=yellow" /></td>
     <td><img src="https://img.shields.io/static/v1.svg?label=0.3%&message=Swift&color=orange" /></td>
