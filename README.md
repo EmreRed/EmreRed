@@ -5,7 +5,7 @@
   <img align="center" height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emredv&layout=compact&theme=compact" />
 </a>
 
-<h3 align="center">My Top 5</h3>
+<h3 align="left">My Top 5</h3>
 <table>
   <tbody>
    <tr>
