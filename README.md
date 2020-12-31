@@ -14,7 +14,7 @@
     <td><img src="https://img.shields.io/static/v1.svg?label=0.4%&message=Javascript&color=yellow" /></td>
     <td><img src="https://img.shields.io/static/v1.svg?label=0.3%&message=Swift&color=orange" /></td>
     <td><img src="https://img.shields.io/static/v1.svg?label=0.2%&message=Java&color=red" /></td>
-    <td><img src="https://img.shields.io/static/v1.svg?label=0.1%&message=CSharp&color=gray" /></td>
+    <td><img src="https://img.shields.io/static/v1.svg?label=0.1%&message=CSharp&color=lightgray" /></td>
     <td><img src="https://img.shields.io/static/v1.svg?label=-99%&message=.NET&color=purple" /></td>
   </tr>
  </tbody>
