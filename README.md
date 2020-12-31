@@ -29,10 +29,10 @@
   <img alt="Visit my website" src="https://img.shields.io/static/v1.svg?label=visit&message=emre.red&color=white&style=for-the-badge&labelColor=red">
 </a>
 <br />
-<a href="https://kisacasi.net/">
-  <img alt="Visit my blog" src="https://img.shields.io/static/v1.svg?label=visit&message=kisacasi.net&color=white&style=for-the-badge&labelColor=red">
-</a>
-<br />
 <a href="https://etiked.net/">
   <img alt="Visit Etiked.net" src="https://img.shields.io/static/v1.svg?label=visit&message=etiked.net&color=white&style=for-the-badge&labelColor=red">
+</a>
+<br />
+<a href="https://kisacasi.net/">
+  <img alt="Visit my blog" src="https://img.shields.io/static/v1.svg?label=visit&message=kisacasi.net&color=white&style=for-the-badge&labelColor=red">
 </a>
