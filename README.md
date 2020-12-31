@@ -15,7 +15,7 @@
     <td><img src="https://img.shields.io/static/v1.svg?label=0.3%&message=Swift&color=orange" /></td>
     <td><img src="https://img.shields.io/static/v1.svg?label=0.2%&message=Java&color=red" /></td>
     <td><img src="https://img.shields.io/static/v1.svg?label=0.1%&message=CSharp&color=gray" /></td>
-    <td><img src="https://img.shields.io/static/v1.svg?label=-100%&message=.NET&color=purple" /></td>
+    <td><img src="https://img.shields.io/static/v1.svg?label=-99%&message=.NET&color=purple" /></td>
   </tr>
  </tbody>
 </table>
@@ -31,4 +31,8 @@
 <br />
 <a href="https://kisacasi.net/">
   <img alt="Visit my blog" src="https://img.shields.io/static/v1.svg?label=visit&message=kisacasi.net&color=white&style=for-the-badge&labelColor=red">
+</a>
+<br />
+<a href="https://etiked.net/">
+  <img alt="Visit Etiked.net" src="https://img.shields.io/static/v1.svg?label=visit&message=etiked.net&color=white&style=for-the-badge&labelColor=red">
 </a>
