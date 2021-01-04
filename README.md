@@ -17,18 +17,24 @@
 </p>
 
 <h3 align="left">I Think You Should</h3>
-<a href="https://github.com/emredv">
-  <img alt="Follow me on Github" src="https://img.shields.io/static/v1.svg?label=follow&message=github&color=white&labelColor=blue&style=for-the-badge">
-</a>
+<p>
+  <img alt="Follow me on Github" src="https://img.shields.io/static/v1.svg?label=follow&message=+&color=white&labelColor=blue&style=for-the-badge"> 
+  <a href="https://github.com/emredv">
+    <img alt="Follow me on Github" src="https://img.shields.io/static/v1.svg?label=&message=github&color=white&labelColor=blue&style=for-the-badge"> 
+  </a>
+</p>
 <br />
-<a href="https://emre.red/">
-  <img alt="Visit my website" src="https://img.shields.io/static/v1.svg?label=visit&message=emre.red&color=white&style=for-the-badge&labelColor=red">
-</a>
-<br />
-<a href="https://etiked.net/">
-  <img alt="Visit Etiked.net" src="https://img.shields.io/static/v1.svg?label=visit&message=etiked.net&color=white&style=for-the-badge&labelColor=red">
-</a>
-<br />
-<a href="https://kisacasi.net/">
-  <img alt="Visit my blog" src="https://img.shields.io/static/v1.svg?label=visit&message=kisacasi.net&color=white&style=for-the-badge&labelColor=red">
-</a>
+<p>
+  <img alt="VISIT" src="https://img.shields.io/static/v1.svg?label=visit&message=+&color=white&style=for-the-badge&labelColor=red">
+  <a href="https://emre.red/">
+    <img alt="EMRE.RED" src="https://img.shields.io/static/v1.svg?label=&message=emre.red&color=white&style=for-the-badge&labelColor=red">
+  </a>
+  <img src="https://img.shields.io/static/v1.svg?label=&message=|&color=white&style=for-the-badge&labelColor=red">
+  <a href="https://etiked.net/">
+   <img alt="Visit Etiked.net" src="https://img.shields.io/static/v1.svg?label=+&message=etiked.net&color=white&style=for-the-badge&labelColor=red">
+  </a>
+  <img src="https://img.shields.io/static/v1.svg?label=&message=|&color=white&style=for-the-badge&labelColor=red">
+  <a href="https://kisacasi.net/">
+   <img alt="Visit my blog" src="https://img.shields.io/static/v1.svg?label=+&message=kisacasi.net&color=white&style=for-the-badge&labelColor=red">
+  </a>
+</p>
