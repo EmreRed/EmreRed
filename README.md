@@ -1,9 +1,11 @@
-<a href="https://github.com/emredv">
-  <img align="center" height="180" src="https://github-readme-stats.vercel.app/api?username=EmreRed&show_icons=true&theme=compact" />
-</a>    
-<a href="https://github.com/emredv">
-  <img align="center" height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmreRed&layout=compact&theme=compact" />
-</a>
+<p align="center">
+  <a href="https://github.com/emredv">
+    <img align="center" height="180" src="https://github-readme-stats.vercel.app/api?username=EmreRed&show_icons=true&theme=compact" />
+  </a>    
+  <a href="https://github.com/emredv">
+    <img align="center" height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmreRed&layout=compact&theme=compact" />
+  </a>
+</p>
 
 <h3 align="center">My Favorites</h3>
 <p align="center">
