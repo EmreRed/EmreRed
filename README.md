@@ -10,12 +10,11 @@
 <h3 align="center">My Favorites</h3>
 <p align="center">
   <img src="https://img.shields.io/static/v1.svg?label=200%&message=HTML&color=white" />&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/static/v1.svg?label=0.5%&message=PHP&color=blue" />&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/static/v1.svg?label=0.4%&message=Javascript&color=yellow" />&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/static/v1.svg?label=0.3%&message=Swift&color=orange" />&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/static/v1.svg?label=0.5%&message=Javascript&color=yellow" />&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/static/v1.svg?label=0.4%&message=Swift&color=orange" />&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/static/v1.svg?label=0.3%&message=PHP&color=blue" />&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/static/v1.svg?label=0.2%&message=Java&color=red" />&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/static/v1.svg?label=0.1%&message=CSharp&color=lightgray" />&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/static/v1.svg?label=-99%&message=.NET&color=purple" />&nbsp;&nbsp;&nbsp;
 </p>
 
 <h3 align="left">I Think You Should</h3>
