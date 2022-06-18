@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://emre.red">
-    <img align="center" max-width="1000" src="https://raw.githubusercontent.com/EmreRed/EmreRed/master/cover.jpg" />
+    <img align="center" max-width="1000" src="https://raw.githubusercontent.com/EmreRed/EmreRed/master/cover.png" />
   </a>
 </p>
 
